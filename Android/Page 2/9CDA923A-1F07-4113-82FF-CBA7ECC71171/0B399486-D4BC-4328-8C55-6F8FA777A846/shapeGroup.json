@@ -1,7 +1,7 @@
 {
   "_class": "shapeGroup",
   "clippingMaskMode": 0,
-  "do_objectID": "450B74A1-D049-4FF2-AB83-F419C1EAE3CD",
+  "do_objectID": "0B399486-D4BC-4328-8C55-6F8FA777A846",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -16,8 +16,8 @@
     "constrainProportions": false,
     "height": 275,
     "width": 174,
-    "x": 82,
-    "y": 186
+    "x": 141.4375,
+    "y": 263.77734375
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -29,7 +29,7 @@
   "layers": [
     {
       "class": "rectangle",
-      "id": "9A6E3E06-1F13-4E37-8635-901F4ACE0162"
+      "id": "AFFD7748-8626-466F-B6C2-D7802F5DBA01"
     }
   ],
   "name": "Rectangle",
@@ -63,9 +63,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0,
-          "green": 0,
-          "red": 1
+          "blue": 0.847,
+          "green": 0.847,
+          "red": 0.847
         },
         "fillType": 0,
         "isEnabled": true,
