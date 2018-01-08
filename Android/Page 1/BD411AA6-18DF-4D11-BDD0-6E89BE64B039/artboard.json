@@ -44,6 +44,10 @@
     {
       "class": "symbolInstance",
       "id": "F7EF2136-5E91-401B-BC3B-4995D053C46C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "450B74A1-D049-4FF2-AB83-F419C1EAE3CD"
     }
   ],
   "name": "Mobile",
